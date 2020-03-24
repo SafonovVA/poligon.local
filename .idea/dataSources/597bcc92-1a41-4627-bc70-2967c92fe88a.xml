@@ -1143,7 +1143,7 @@
       <Position>2</Position>
       <DataType>int unsigned|0s</DataType>
       <NotNull>1</NotNull>
-      <DefaultExpression>&apos;0&apos;</DefaultExpression>
+      <DefaultExpression>&apos;1&apos;</DefaultExpression>
       <ColumnKind>normal</ColumnKind>
     </column>
     <column id="288" parent="281" name="slug">
